@@ -2,17 +2,28 @@
 
 Modlist: 
 
-*Actually Additions (by Ellpeck)
+Actually Additions (by Ellpeck)
+
 Additional Loot Tables (by jriwanek)
+
 Advanced Machines (by Chocohead)
+
 AppleCore (by squeek502)
+
 AppleSkin (by squeek502)
+
 Aquaculture (by Shadowclaimer)
+
 Aroma1997Core (by Aroma1997)
-AromaBackup (by Aroma1997)
+
+AromaBackup (by Aroma1997
+
 Auto Sapling (by lemonszz)
+
 AutoRegLib (by Vazkii)
+
 Backpacks! (by Brad16840)
+
 Baubles (by azanor)
 Better Builder's Wands (by Portablejim)
 Better With Mods (by BeetoGuy)
