@@ -1,8 +1,8 @@
 # CurseOfGaia
 
-Modlist: 
+Modlist: /n
 
-Actually Additions (by Ellpeck)
+Actually Additions (by Ellpeck)/n
 Additional Loot Tables (by jriwanek)
 Advanced Machines (by Chocohead)
 AppleCore (by squeek502)
